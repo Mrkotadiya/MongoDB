@@ -1,0 +1,77 @@
+{
+    "orderno":019001,"clientno":"C00001","orderdate":"12-june-04","delyaddr":"Surat","salesmanno":"S00001","delytype":"F","billyn":"N","delydate":"'20-july-02","orderstatus":"In Process"}
+
+"orderno":019001,
+"clientno":"C00001",
+"orderdate":"12-june-04",
+"delyaddr":"Surat",
+"salesmanno":"S00001",
+"delytype":"F",
+"billyn":"N",
+"delydate":"'20-july-02",
+"orderstatus":"In Process"
+
+
+"orderno":019001,
+"clientno":"C00001",
+"orderdate":"12-june-04",
+"delyaddr":"Surat",
+"salesmanno":"S00001",
+"delytype":"F",
+"billyn":"N",
+"delydate":"'20-july-02",
+"orderstatus":"In Process"
+
+
+"orderno":019001,
+"clientno":"C00001",
+"orderdate":"12-june-04",
+"delyaddr":"Surat",
+"salesmanno":"S00001",
+"delytype":"F",
+"billyn":"N",
+"delydate":"'20-july-02",
+"orderstatus":"In Process"
+
+
+"orderno":019001,
+"clientno":"C00001",
+"orderdate":"12-june-04",
+"delyaddr":"Surat",
+"salesmanno":"S00001",
+"delytype":"F",
+"billyn":"N",
+"delydate":"'20-july-02",
+"orderstatus":"In Process"
+
+
+
+"orderno":019001,
+"clientno":"C00001",
+"orderdate":"12-june-04",
+"delyaddr":"Surat",
+"salesmanno":"S00001",
+"delytype":"F",
+"billyn":"N",
+"delydate":"'20-july-02",
+"orderstatus":"In Process"
+
+
+
+db.SALES_ORDER.insertMany([{ORDERNO:019001,CLIENTNO:"C00001",ORDERDATE:"2004-06-12",DELYADDR:"Surat",SALESMANNO:"	S00001",DELYTYPE:"	F",BILLYN:"	N",DELYDATE:"	2002-07-20",ORDERSTATUS:"	In Process"}
+,{ORDERNO:019002,CLIENTNO:"C00002",ORDERDATE:"2004-06-25",DELYADDR:"Mumbai",SALESMANNO:"	S00002",DELYTYPE:"	P",BILLYN:"	N",DELYDATE:"	2002-06-27",ORDERSTATUS:"	Cancelled"}
+,{ORDERNO:019003,CLIENTNO:"C00001",ORDERDATE:"2004-04-03",DELYADDR:"Maharastra",SALESMANNO:"	S00001",DELYTYPE:"	F",BILLYN:"	Y",DELYDATE:"	2002-04-07",ORDERSTATUS:"	Fulfilled"}
+,{ORDERNO:019008,CLIENTNO:"C00005",ORDERDATE:"2004-05-24",DELYADDR:"Ahmdabad",SALESMANNO:"	S00004",DELYTYPE:"	F",BILLYN:"	N",DELYDATE:"	2002-07-26",ORDERSTATUS:"	In Process"}
+,{ORDERNO:046865,CLIENTNO:"C00003",ORDERDATE:"2004-02-18",DELYADDR:"Kalkata",SALESMANNO:"	S00003",DELYTYPE:"	F",BILLYN:"	Y",DELYDATE:"	2002-02-20",ORDERSTATUS:"	Fulfilled"}
+,{ORDERNO:046866,CLIENTNO:"C00004",ORDERDATE:"2004-05-20",DELYADDR:"Delhi",SALESMANNO:"	S00002",DELYTYPE:"	P",BILLYN:"	N",DELYDATE:"	2002-05-22",ORDERSTATUS:"	Cancelled"}])
+
+
+
+
+
+
+
+
+
+
+

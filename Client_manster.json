@@ -1,0 +1,150 @@
+[
+    {
+        "_id": "ObjectId ('61efc7f87c69db48f9beba80)",
+        "CLIENTNO": "C00001",
+        "NAME": "ivan bayroos",
+        "ADDRESS1": "Swastiktower",
+        "ADDRESS2": "Jakatnaka",
+        "CITY": "Mumbai",
+        "PINCODE": 400054,
+        "STATE": "Maharastra",
+        "BALDUE": 15000
+    },
+    {
+        "_id": "ObjectId('61efc9c47c69db48f9beba81)",
+        "CLIENTNO": "C00002",
+        "NAME": "Mamta Muzumdar",
+        "ADDRESS1": "Swagat",
+        "ADDRESS2": "Punagam",
+        "CITY": "Surat",
+        "PINCODE": 400054,
+        "STATE": "Maharastra",
+        "BALDUE": 15000
+    },
+    {
+        "CLIENTNO": "C00002",
+        "NAME": "Mamta Muzumdar",
+        "ADDRESS1": "Swagat",
+        "ADDRESS2": "Punagam",
+        "CITY": "Surat",
+        "PINCODE": 400054,
+        "STATE": "Maharastra",
+        "BALDUE": 15000
+    }
+
+{
+        "CLIENTNO": "C00003",
+        "NAME": "Chhaya Bankar",
+        "ADDRESS1": "Yoginagar",
+        "ADDRESS2": "Varacha",
+        "CITY": "Mumbai",
+        "PINCODE": 400057,
+        "STATE": "Tamil Naddu",
+        "BALDUE": 5000
+    }
+
+
+{
+        "CLIENTNO": "C00004",
+        "NAME": "Ashwini Joshi",
+        "ADDRESS1": "Swastic",
+        "ADDRESS2": "Mota Varacha",
+        "CITY": "Mumbai",
+        "PINCODE": 560001,
+        "STATE": "Karnataka",
+        "BALDUE": 0
+    }
+
+
+{
+        "CLIENTNO": "C00005",
+        "NAME": "Hansel colaco",
+        "ADDRESS1": "Adhar",
+        "ADDRESS2": "Mahal",
+        "CITY": "Surat",
+        "PINCODE": 400060,
+        "STATE": "Maharastra",
+        "BALDUE": 2000
+    }
+
+
+
+{
+        "CLIENTNO": "C00006",
+        "NAME": "Deepak Sharma",
+        "ADDRESS1": "Hansh",
+        "ADDRESS2": "Vihar",
+        "CITY": "Mumbai",
+        "PINCODE": 560050,
+        "STATE": "Karnataka",
+        "BALDUE": 0
+    }
+]
+
+
+{
+    "_id": ObjectId("61efc7f87c69db48f9beba80"),
+    "CLIENTNO": "C00001",
+    "NAME": "ivan bayroos",
+    "ADDRESS1": "Swastiktower",
+    "ADDRESS2": "Jakatnaka",
+    "CITY": "Mumbai",
+    "PINCODE": 400054,
+    "STATE": "Maharastra",
+    "BALDUE": 15000
+}
+{
+    "_id": ObjectId("61efc9c47c69db48f9beba81"),
+    "CLIENTNO": "C00002",
+    "NAME": "Mamta Muzumdar",
+    "ADDRESS1": "Swagat",
+    "ADDRESS2": "Punagam",
+    "CITY": "Surat",
+    "PINCODE": 400054,
+    "STATE": "Maharastra",
+    "BALDUE": 15000
+}
+{
+    "_id": ObjectId("61efcb2b7c69db48f9beba82"),
+    "CLIENTNO": "C00003",
+    "NAME": "Chhaya Bankar",
+    "ADDRESS1": "Yoginagar",
+    "ADDRESS2": "Varacha",
+    "CITY": "Mumbai",
+    "PINCODE": 400057,
+    "STATE": "Tamil Naddu",
+    "BALDUE": 5000
+}
+{
+    "_id": ObjectId("61efccea7c69db48f9beba83"),
+    "CLIENTNO": "C00004",
+    "NAME": "Ashwini Joshi",
+    "ADDRESS1": "Swastic",
+    "ADDRESS2": "Mota Varacha",
+    "CITY": "Mumbai",
+    "PINCODE": 560001,
+    "STATE": "Karnataka",
+    "BALDUE": 0
+}
+{
+    "_id": ObjectId("61efcd117c69db48f9beba84"),
+    "CLIENTNO": "C00005",
+    "NAME": "Hansel colaco",
+    "ADDRESS1": "Adhar",
+    "ADDRESS2": "Mahal",
+    "CITY": "Surat",
+    "PINCODE": 400060,
+    "STATE": "Maharastra",
+    "BALDUE": 2000
+}
+{
+    "_id": ObjectId("61efcd447c69db48f9beba85"),
+    "CLIENTNO": "C00006",
+    "NAME": "Deepak Sharma",
+    "ADDRESS1": "Hansh",
+    "ADDRESS2": "Vihar",
+    "CITY": "Mumbai",
+    "PINCODE": 560050,
+    "STATE": "Karnataka",
+    "BALDUE": 0
+}

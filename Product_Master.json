@@ -1,0 +1,101 @@
+[
+{
+    "_id" : "ObjectId(61f26a62b931f46e8c822584",
+    " PRODUCTNO" : "P00001",
+    "DESCRIPTION" : "T-Shirts",
+    "PROFITPERSENTAGE" : 5,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 200,
+    "RECORDERLVL" : 50,
+    "SELLPRICE" : 350,
+    "COSTPRICE" : 250
+},
+{
+    "_id" : "ObjectId(61f26a62b931f46e8c822585",
+    " PRODUCTNO" : "P00002",
+    "DESCRIPTION" : "Shirt",
+    "PROFITPERSENTAGE" : 6,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 150,
+    "RECORDERLVL" : 50,
+    "SELLPRICE" : 500,
+    "COSTPRICE" : 350
+},
+{
+    "_id" :" ObjectId(61f26a62b931f46e8c822586",
+    " PRODUCTNO" : "P00003",
+    "DESCRIPTION" : "Cotton jeans",
+    "PROFITPERSENTAGE" : 5,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 100,
+    "RECORDERLVL" : 20,
+    "SELLPRICE" : 600,
+    "COSTPRICE" : 450
+},
+{
+    "_id" : "ObjectId(61f26a62b931f46e8c822587",
+    " PRODUCTNO" : "P00004",
+    "DESCRIPTION" : "Jeans",
+    "PROFITPERSENTAGE" : 5,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 100,
+    "RECORDERLVL" : 20,
+    "SELLPRICE" : 750,
+    "COSTPRICE" : 500
+},
+{
+    "_id" : "ObjectId(61f26a62b931f46e8c822588",
+    " PRODUCTNO" : "P00005",
+    "DESCRIPTION" : "Trousers",
+    "PROFITPERSENTAGE" : 2,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 150,
+    "RECORDERLVL" : 50,
+    "SELLPRICE" : 850,
+    "COSTPRICE" : 550
+},
+{
+    "_id" :" ObjectId(61f26a62b931f46e8c822589",
+    " PRODUCTNO" : "P00006",
+    "DESCRIPTION" : "Pull Overs",
+    "PROFITPERSENTAGE" : 2.5,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 80,
+    "RECORDERLVL" : 30,
+    "SELLPRICE" : 700,
+    "COSTPRICE" : 450
+},
+{
+    "_id" : "ObjectId(61f26a62b931f46e8c82258a",
+    " PRODUCTNO" : "P00007",
+    "DESCRIPTION" : "Denim Shirts",
+    "PROFITPERSENTAGE" : 4,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 100,
+    "RECORDERLVL" : 40,
+    "SELLPRICE" : 350,
+    "COSTPRICE" : 250
+},
+{
+    "_id" : "ObjectId(61f26a62b931f46e8c82258b",
+    " PRODUCTNO" : "P00008",
+    "DESCRIPTION" : "Lycra Top",
+    "PROFITPERSENTAGE" : 5,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 70,
+    "RECORDERLVL" : 30,
+    "SELLPRICE" : 300,
+    "COSTPRICE" : 175
+},
+{
+    "_id" : "ObjectId(61f26a62b931f46e8c82258c",
+    " PRODUCTNO" : "P00009",
+    "DESCRIPTION" : "Shirts",
+    "PROFITPERSENTAGE" : 5,
+    "UNITEMASURE" : "Piece",
+    "QTYONHAND" : 75,
+    "RECORDERLVL" : 30,
+    "SELLPRICE" : 450,
+    "COSTPRICE" : 300
+}
+]
